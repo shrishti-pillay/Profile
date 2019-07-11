@@ -132,6 +132,7 @@ hr{
 
 .btn:hover {
   background: #1fdbd8;
+  color: #ffffff;
   text-decoration: none;
 }
 .bottom-container{
